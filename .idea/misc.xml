@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2035" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/drawable/emideli_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/drawable/emideli_sin_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2035" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/drawable/splash.xml" value="0.2035" />
         <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/layout/activity_splash_screen.xml" value="0.21" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/layout/activity_splash_screen.xml" value="0.5" />
+        <entry key="..\:/Users/Alumnos/AndroidStudioProjects/Emideli2/app/src/main/res/mipmap-anydpi-v26/Emideli.xml" value="0.2035" />
       </map>
     </option>
   </component>
